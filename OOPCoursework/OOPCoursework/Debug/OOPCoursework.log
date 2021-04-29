@@ -1,0 +1,21 @@
+﻿  Board.cpp
+  Cell.cpp
+\\Mac\Home\Downloads\OOPCoursework\OOPCoursework\Cell.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Printable.cpp
+  Score.cpp
+  TargetInfo.cpp
+  Target20.cpp
+  Target30.cpp
+  Target50.cpp
+  Shape2D.cpp
+  BorderCell.cpp
+  Target.cpp
+  Screen.cpp
+\\Mac\Home\Downloads\OOPCoursework\OOPCoursework\Screen.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+\\Mac\Home\Downloads\OOPCoursework\OOPCoursework\Screen.cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+  EmptyCell.cpp
+  Game.cpp
+\\Mac\Home\Downloads\OOPCoursework\OOPCoursework\Game.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  OOPCoursework.vcxproj -> \\Mac\Home\Downloads\OOPCoursework\Debug\OOPCoursework.exe
